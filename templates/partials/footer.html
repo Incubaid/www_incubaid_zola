@@ -14,8 +14,30 @@
     {% else %}
         {% set footer_class = config.extra.footer_class | default(value='') %}
         <div class="{{ footer_class }}">
+            <div class="py-4 px-4 sm:px-6">
+                <div class="lg:flex lg:gap-4">
+                  <div class="space-y-8 lg:max-w-sm lg:mr-8 lg:mb-8 lg:col-span-1">
+                    <img class="w-1/2 lg:mx-4 mb-4" src="/images/footer_logo.png" alt="incubaid Logo" />
+                    </div>
+                    <div class="space-y-8 lg:max-w-sm lg:mr-8 lg:mb-8 lg:col-span-1">
+                        <p class="mt-0 text-base">
+                            We believe doing good for the world and doing business can go hand in hand.
+                        </p> 
+                    </div>
+                    <div class="space-y-8 lg:max-w-sm lg:mr-8 lg:mb-8 lg:col-span-1">
+                        <a target="_blank" href="mailto:info@incubaid.com">info@incubaid.com</a> 
+                    </div> 
+                    <div class="lg:max-w-sm lg:mr-8 lg:mb-8 lg:col-span-1">
+                        <a class="flex" href="/projects">Our projects</a>
+                        <a class="flex" href="/people">Our people</a>
+                        <a class="flex" href="/">Privacy Policy</a>
+                    </div>
+                </div>
+            </div>
             {# <img src="{{get_url(path='images/')}}" class="w-60" alt=""> #}
-            <p class="text-center">&#169; Ourphone&trade; All Rights Reserved 2022</p>
+            <p class="text-center text-base">&#169; incubaid&trade; All Rights Reserved 2022</p>
         </div>
     {% endif %}
 </footer>
+
+

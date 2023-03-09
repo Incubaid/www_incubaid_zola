@@ -15,9 +15,9 @@
   -webkit-backdrop-filter: blur(40px);
 }
 
-* {
+/* * {
   font-family: 'Josefin Sans', sans-serif;
-}
+} */
 
 .bg-semi-white {
   background-color: rgba(255, 255, 255, 0.75);
@@ -150,11 +150,13 @@ img[src*="#fig"] {
 }
 
 button:hover  {
-  color: #984210;
+  background-color: #437616;
+  /* color: #984210; */
 }
 
 button  {
 font-weight: 500;
+background-color: #68b622;
 }
 
 .experience-btn {
@@ -180,7 +182,7 @@ font-weight: 500;
 }
 
 header .customize {
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     position: fixed;
 }
 
@@ -202,25 +204,37 @@ footer .customize img {
 
 header .customize div {
     box-shadow: none;
-    text-transform: uppercase;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
     font-weight: 700 !important;
 }
 
 button {
-  background: transparent;
-  color: black;
-  border-radius: 10px;
-  border: 2px solid black;
+  background-color: #68b622;
+  /* background: transparent; */
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+  border: none;
   box-shadow: none;
-  font-size: 20px;
+  font-size: 17px;
+  padding-top:8px ;
+  padding-bottom: 8px;
 }
 
 a {
   border: none;
 }
 
+a:hover{
+  color: #68b622 !important;
+}
+
+button a:hover{
+  color: #ffffff !important;
+}
+
 header {
-  font-family: "Work Sans";
+  font-family: 'Lato', sans-serif;
 }
 
 .nav_btn {
