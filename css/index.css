@@ -99,11 +99,14 @@ img[src*="#fig"] {
   h2 {
     @apply text-3xl md:text-5xl lg:text-5xl text-gray-900 font-light leading-4 my-4;
     font-family: 'Josefin Sans', sans-serif;
-    line-height: 1.5;
-    
-    
-    
+    line-height: 1.5;}
+
+  h4 {
+      @apply text-3xl lg:text-5xl text-green-600 font-light leading-4 my-4;
+      font-family: 'Josefin Sans', sans-serif;
+      line-height: 1.5;
   }
+
   h2 strong {
     @apply font-medium;
   }

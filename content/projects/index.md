@@ -7,45 +7,48 @@ draft: false
 weight: 2
 ---
 
-<div class="container-fluid mx-auto">
+<div class="container mx-auto">
 
 <br>
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="both" bgPath="./img/placeholder.png" ) %}
+{% row(style="center" margin="header" padding="top") %}
 
-# BE A PART OF <br> OUR SOVEREIGN MOVEMENT
+# Projects
+
+Some insight into our portfolio and its evolution over the past 19 years.
+
+{% end %}
+
+{% row(style="" margin="narrow" padding="bottom") %}
+
+![Image](./img/wave_one.jpg#mx-auto)
+
+#### Then: Wave One
+
+<p class="text-base"><span class="font-semibold">More than $500 million in exits with less than $50 million investment.</span><br><br>Our focus during Wave One was very IT-centric – around storage, automation and cloud. During this wave from 2000 till 2015 some of our companies defined parts of the cloud landscape, and are still being used actively today.</p>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+|||
+
+![Image](./img/wave_two.jpg#mx-auto)
+
+#### Now: Wave Two
+
+<p class="text-base">We believe doing good for the world and doing business can go hand in hand. We are building companies which will help to achieve an ambituous global goal:<br><br><span class="font-semibold">Allow everyone to have unlimited access to Education, Sustainable Internet, and Complementary Digital Currencies for less than 1% of their monthly salary.</span><br><br>To reach this goal the world needs next-generation technologies that open education, mobile, and financial systems up for all.</p>
+
+
 
 {% end %}
 
 </div>
 
-<div class="container mx-auto">
-
-{% row(style="center" margin="withContainer" padding="both") %}
-
-![image](./img/phone1.png)
-
-<button>[Pre-Order](/)</button>
-
-Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured digital future.
-
-|||
-
-![image](./img/crowdfund1.png)
-
-<button>[Crowdfund](/)</button>
-
-Learn more about how to purchase **OurPhone&trade;** Company's shares, and become a co-owner of **OurPhone&trade;** Company.
-
-|||
-
-![image](./img/invest.png)
-
-<button>[Invest](/)</button>
-
-Support **OurPhone&trade;** project by financing **OurPhone&trade;** Company's hardware acquisition.
-{% end %}
-
-</div>
