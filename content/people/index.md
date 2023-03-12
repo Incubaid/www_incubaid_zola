@@ -25,7 +25,7 @@ We may like tech, but where would we be without our people?
 
 <a href="/kristof-de-spiegeleer">![Image](./img/kds.jpg#mx-auto)</a>
 
-##### Kristof<br> De Spiegeleer
+#### Kristof<br> De Spiegeleer
 
 <p class="text-base">Founder & CEO</p>
 
@@ -33,7 +33,7 @@ We may like tech, but where would we be without our people?
 
 <a href="/kristof-de-spiegeleer">![Image](./img/adnan.jpg#mx-auto)</a>
 
-##### Adnan<br> Fatayerji
+#### Adnan<br> Fatayerji
 
 <p class="text-base">Head of UAE Venture</p>
 
@@ -41,7 +41,7 @@ We may like tech, but where would we be without our people?
 
 <a href="/kristof-de-spiegeleer">![Image](./img/jan.jpg#mx-auto)</a>
 
-##### Jan<br> De Landtsheer
+#### Jan<br> De Landtsheer
 
 <p class="text-base">Head of R&D</p>
 
@@ -49,7 +49,7 @@ We may like tech, but where would we be without our people?
 
 <a href="/kristof-de-spiegeleer">![Image](./img/peter.jpg#mx-auto)</a>
 
-##### Peter<br> Van der Henst
+#### Peter<br> Van der Henst
 
 <p class="text-base">HR & Finance</p>
 
@@ -57,7 +57,7 @@ We may like tech, but where would we be without our people?
 
 <a href="/kristof-de-spiegeleer">![Image](./img/owen.jpg#mx-auto)</a>
 
-##### Owen<br> Kemp
+#### Owen<br> Kemp
 
 <p class="text-base">Partner</p>
 
