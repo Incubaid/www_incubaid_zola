@@ -23,7 +23,7 @@ Some insight into our portfolio and its evolution over the past 19 years.
 
 {% row(style="" margin="narrow" padding="bottom") %}
 
-![Image](./img/wave_one.jpg#mx-auto)
+<a href="/projects/waveone">![Image](./img/wave_one.jpg#mx-auto)</a>
 
 #### Then: Wave One
 
@@ -40,7 +40,7 @@ Some insight into our portfolio and its evolution over the past 19 years.
 
 |||
 
-![Image](./img/wave_two.jpg#mx-auto)
+<a href="/wave-tow">![Image](./img/wave_two.jpg#mx-auto)</a>
 
 #### Now: Wave Two
 

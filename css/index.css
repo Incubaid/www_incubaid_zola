@@ -107,6 +107,13 @@ img[src*="#fig"] {
       line-height: 1.5;
   }
 
+
+  h5 {
+    @apply text-xl text-green-600 font-normal my-2;
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 1.2;
+}
+
   h2 strong {
     @apply font-medium;
   }
@@ -120,9 +127,9 @@ img[src*="#fig"] {
   h4 {
     @apply text-xl lg:text-xl font-normal;
   }
-  h5 {
+  /* h5 {
     @apply text-xl lg:text-xl font-normal;
-  }
+  } */
   h6 {
     @apply text-lg not-italic font-normal my-1;
   }

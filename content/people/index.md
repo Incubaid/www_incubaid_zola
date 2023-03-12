@@ -11,225 +11,67 @@ weight: 3
 
 <br>
 
-<!-- section 1 (header) -->
+<!-- section 1 (co-found) -->
 
-{% row(margin="withContainer" padding="both") %}
+{% row(style="center" margin="header" padding="top") %}
 
-![placeholder](./img/specf.png#large#mx-auto)
+# Get to know us
+
+We may like tech, but where would we be without our people?
+
+{% end %}
+
+{% row(style="center" margin="moderate" padding="bottom") %}
+
+<a href="/kristof-de-spiegeleer">![Image](./img/kds.jpg#mx-auto)</a>
+
+##### Kristof<br> De Spiegeleer
+
+<p class="text-base">Founder & CEO</p>
 
 |||
 
-# OurPhone&trade; Overview
+<a href="/kristof-de-spiegeleer">![Image](./img/adnan.jpg#mx-auto)</a>
 
-- Based on Google Pixel 6a, 7 and 7 Pro
-- Graphene OS (Google-less Android)
-- ThreeFold Quantum Safe Storage, 
-- ThreeFold Planetary network
-- ThreeFold Edge Compute Technology
-- OurVerse SuperApps, Android apps Compatibility
-- FreeFlow Twin Technology
-- Secure network layer 
+##### Adnan<br> Fatayerji
 
-{% end %}
-
-<!-- section 2 design -->
-
-{% row(style="center" margin="withContainer" padding="top") %}
-
-# Decentralized SmartPhone,
-# Designed Smartly
-
-{% end %}
-
-{% row(style="center" margin="withContainer" padding="none") %}
-
-
-![Image](./img/waterproof.png#medium#mx-auto)
-
-Matte Enclosure Made from 100% Recycled Aluminum
+<p class="text-base">Head of UAE Venture</p>
 
 |||
 
-![Image](./img/smooth.png#medium#mx-auto)
+<a href="/kristof-de-spiegeleer">![Image](./img/jan.jpg#mx-auto)</a>
 
-Fast and Responsive Display with High Durability
+##### Jan<br> De Landtsheer
 
-{% end %}
-
-{% row(style="center" margin="withContainer" padding="bottom") %}
-
-![Image](./img/camera.png#medium#mx-auto)
-
-25% Brighter Outdoors, Even in Sunlight
-
-
-{% end %}
-
-<!-- section 3 models -->
-
-{% row(style="center" margin="withContainer" padding="top") %}
-
-# OurPhone&trade; Models
-<br />
-<br />
-
-{% end %}
-
-{% row(style="center" margin="withContainer" padding="bottom") %}
-
-![Image](./img/phone1.png#medium#mx-auto)
-
-### __OurPhone<sup>X</sup>__
-
-#### __Display__
-###### __6.7-inch__ QHD+ Quad High Definition
-<br>
-
-#### __Rear Camera__
-###### Triple rear camera system:
-###### Wide, ultrawide, 2 telephoto lens
-<br>
-
-#### __Processor__
-###### Google Tensor G2
-<br>
-
-#### __Memory__
-###### 12Gb RAM
-<br>
-
-#### __Battery and charging__
-###### 5000 mAh3 
-###### 24+ hour battery life
-###### Fast wireless charging
+<p class="text-base">Head of R&D</p>
 
 |||
 
-![Image](./img/phone2.png#medium#mx-auto)
+<a href="/kristof-de-spiegeleer">![Image](./img/peter.jpg#mx-auto)</a>
 
-### __OurPhone<sup>Y</sup>__
+##### Peter<br> Van der Henst
 
-#### __Display__
-###### __6.3-inch__ FHD+ Full High Definition
-<br>
-
-#### __Rear Camera__
-###### Dual rear camera system: 
-###### Wide, ultrawide lens
-<br>
-
-#### __Processor__
-###### Google Tensor G2
-<br>
-
-#### __Memory__
-###### 8Gb RAM
-<br>
-
-#### __Battery and charging__
-###### 4355 mAh3  
-###### 24h+ hour battery life
-###### Fast wireless charging
+<p class="text-base">HR & Finance</p>
 
 |||
 
-![Image](./img/phone3.png#medium#mx-auto)
+<a href="/kristof-de-spiegeleer">![Image](./img/owen.jpg#mx-auto)</a>
 
-### __OurPhone<sup>A</sup>__
+##### Owen<br> Kemp
 
-#### __Display__
-###### __6.1-inch__ FHD+ Full High Definition
-<br>
-
-#### __Rear Camera__
-###### Dual rear camera system: 
-###### Wide, ultrawide lens
-<br>
-
-#### __Processor__
-###### Google Tensor
-<br>
-
-#### __Memory__
-###### 6Gb RAM
-<br>
-
-#### __Battery and charging__
-###### 4410 mAh3  
-###### 24h+ hour battery life
+<p class="text-base">Partner</p>
 
 {% end %}
 
-<!-- section 4 technical -->
+</div>
 
-{% row(style="center" margin="narrow" padding="top") %}
+<div class="container-fluid mx-auto">
 
-# Technical Specs
+{% row(style="center" margin="moderate" bgColor="#efefef" padding="both") %}
 
-{% end %}
+## We are values-driven
 
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-### __OurPhone<sup>X</sup>__
-<br>
-
-###### - Screen: 6.71-inches 1440x3120 OLED, Corning Gorilla Glass
-###### - 2 SIM Cards
-###### - Operating system: Graphene OS
-###### - Processor: Google Tensor G2 (4 nm), Octa-core, (2x2.85 GHz Cortex-X1 & 2x2.35 GHz, Cortex-A76 & 4x1.80 GHz Cortex-A55) 
-###### - Cameras: 50 MP wide, Laser Focus, Laser AF, OIS, 48 MP, f/3.5, 104mm
-###### - Battery: 4410 mAh  
-###### - Storage: 256 GB, RAM: 12 GB 
-###### - Weight: 178 g 
-###### - Water resistance: IP67 
-
-|||
-
-### __OurPhone<sup>Y</sup>__
-<br>
-
-###### - Screen: 6.3-inches 1440x3120 OLED, Corning Gorilla Glass
-###### - 2 SIM Cards
-###### - Operating system: Graphene OS 
-###### - Processor: Google Tensor G2 (4 nm), Octa-core   (2x2.85 GHz Cortex-X1 &  2x2.35 GHz,  Cortex-A76 & 4x1.80 GHz, Cortex-A55) 
-###### - Cameras: 50 MP wide, Laser Focus,  Laser AF, OIS, 48 MP, f/3.5, 104mm
-###### - Battery: 4410 mAh 
-###### - Storage: 256 GB, RAM: 12 GB 
-###### - Weight: 178 g 
-###### - Water resistance: IP67 
-
-|||
-
-### __OurPhone<sup>A</sup>__
-<br>
-
-###### - Screen size: 6.1-inches 1080 x 2400 OLED 
-###### - Resolution: FHD+, (1080 x 2400 pixels) OLED 
-###### - Operating system: Android 12 
-###### - Processor: Google Tensor 
-###### - Cameras: 12.2 MP wide, 12 MP ultra-wide, 8MP selfie 
-###### - Battery: 4410 mAh 
-###### - Storage: 128 GB, RAM: 6 GB 
-###### - Weight: 178 g 
-###### - Water resistance: IP67 
-
-{% end %}
-
-<!-- section 6 Buy -->
-
-{% row(style="center" margin="withContainer" padding="both") %}
-
-# OurPhone&trade;
-
-![Image](./img/placeholder.png#medium#mx-auto)
-<br>
-
-
-### __A Truly Decentralized Smartphone__ 
-### __Like No Other__
-
-
-<button>[Buy Now](/buynow)</button>
+<button>[Read the FreeFlow Values](/buynow)</button>
 
 {% end %}
 
