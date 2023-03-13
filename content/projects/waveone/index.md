@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Wave One"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -15,7 +15,7 @@ weight: 2
 
 {% row(style="" margin="header" padding="top") %}
 
-## Wave One:
+<h2 class="greenheader">Wave One:</h2>
 
 ### More than $500 million in exits with less than $50 million investment.
 
@@ -352,7 +352,7 @@ Itsyou.online is a web-based service using blockchain distributed ledger to keep
 
 Companies and projects Incubaid is currently invested in through funding, time, resources, and emotion.
 
-<button>[Wave Two](/wavetwo)</button>
+<button>[Wave Two](/projects/wavetwo)</button>
 
 
 

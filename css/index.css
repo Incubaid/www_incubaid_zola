@@ -87,9 +87,12 @@ img[src*="#fig"] {
 }
 
 .hard_green{
-  color: #8cb63e !important;
+  color: #68b622;
 }
-
+.greenheader{
+  color: #68b622;
+  font-weight: 400;
+}
 
 @layer components {
   h1 {
@@ -107,16 +110,18 @@ img[src*="#fig"] {
     line-height: 1.5;}
 
   h4 {
-      @apply text-3xl lg:text-5xl text-green-600 font-light leading-4 my-4;
+      @apply text-3xl lg:text-5xl font-light leading-4 my-4;
       font-family: 'Josefin Sans', sans-serif;
       line-height: 1.5;
+      color: #68b622;
   }
 
 
   h5 {
-    @apply text-lg text-green-600 font-normal my-2;
+    @apply text-lg font-normal my-2;
     font-family: 'Josefin Sans', sans-serif;
     line-height: 1.2;
+    color: #68b622;
 }
 
   h2 strong {
@@ -241,8 +246,25 @@ a {
 }
 
 a:hover{
-  color: #4b8a14 !important;
+  color: #4b8d12 !important;
 }
+
+a img{
+  opacity: 1 !important;
+}
+
+a img:hover{
+  opacity: 0.5 !important;
+}
+
+.greenline{
+  width:20%;
+  background-color: #68b622;
+  color: #68b622;
+  align: center;
+  height: 3px;
+  margin: 0 auto;
+  }
 
 button a:hover{
   color: #ffffff !important;

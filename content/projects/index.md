@@ -40,7 +40,7 @@ Some insight into our portfolio and its evolution over the past 19 years.
 
 |||
 
-<a href="/wave-tow">![Image](./img/wave_two.jpg#mx-auto)</a>
+<a href="/projects/wavetwo">![Image](./img/wave_two.jpg#mx-auto)</a>
 
 #### Now: Wave Two
 
