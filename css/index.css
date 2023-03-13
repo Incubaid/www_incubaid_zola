@@ -257,11 +257,16 @@ a img:hover{
   opacity: 0.5 !important;
 }
 
+hr{
+  background-color: rgb(104 182 34 / 20%);
+  height: 2px;
+}
+
 .greenline{
   width:20%;
   background-color: #68b622;
   color: #68b622;
-  align: center;
+  text-align: center;
   height: 3px;
   margin: 0 auto;
   }

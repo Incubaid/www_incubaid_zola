@@ -15,7 +15,7 @@ weight: 2
 
 {% row(style="" margin="header" padding="top") %}
 
-<h2 class="greenheader">Wave Two:</h2>
+<h2 class="greenheader">Wave Two :</h2>
 
 We believe doing good for the world and doing business can go hand in hand. We are building companies which will help to achieve an ambituous global goal:
 
@@ -39,26 +39,26 @@ To reach this goal the world needs next-generation technologies that open educat
 
 {% row(style="" margin="narrow" padding="none") %}
 
-<a class="hard_green" href="/tftech">![Image](./img/tftech.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/tftech.png)</a>
 
 <p class="text-base">Powering the Information Technology workloads of tomorrow through Self-Driving IT.</p>
 
 |||
 
-<a class="hard_green" href="/tftech">![Image](./img/tft.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/tft.png)</a>
 
 <p class="text-base">Open source software that creates neutral, green and affordable internet capacity, by people, for people. 100% decentralized.</p>
 
 |||
 
-<a class="hard_green" href="/tftech">![Image](./img/fairswap.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/fairswap.png)</a>
 
 <p class="text-base">an open-source, decentralized project complete with wallet, exchange and P2P marketplace, protecting users and enabling true, trusted transacting globally.</p>
 
 |||
 
 
-<a class="hard_green" href="/tftech">![Image](./img/mazraa.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/mazraa.png)</a>
 
 <p class="text-base">The founding capacity farmer on the ThreeFold Network that actively supports the expansion and adoption of ThreeFold's P2P Cloud.</p>
 
@@ -71,26 +71,26 @@ To reach this goal the world needs next-generation technologies that open educat
 
 {% row(style="" margin="narrow" padding="none") %}
 
-<a class="hard_green" href="/tftech">![Image](./img/bettertoken.jpeg#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/bettertoken.png#mx-auto)</a>
 
 <p class="text-base">Europe's first ThreeFold Farming Cooperative, making farming ThreeFold tokens accessible to all.</p>
 
 |||
 
-<a class="hard_green" href="/tftech">![Image](./img/ourworld.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/ourworld.png#mx-auto)</a>
 
 <p class="text-base">A new abundance based internet of internets system that aims to redistribute the ownership of internet and its derivates to the people.</p>
 
 |||
 
-<a class="hard_green" href="/tftech">![Image](./img/tag.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/tag.png#mx-auto)</a>
 
 <p class="text-base">An organization that inspires change by providing opportunities for students around the world to take action on social good causes through education.</p>
 
 |||
 
 
-<a class="hard_green" href="/tftech">![Image](./img/ourverses.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/ourverses.png#mx-auto)</a>
 
 <p class="text-base">A better world where we all have access to endless information and oppurtunities.</p>
 
@@ -100,14 +100,14 @@ To reach this goal the world needs next-generation technologies that open educat
 
 {% row(style="" margin="narrow" padding="none") %}
 
-<a class="hard_green" href="/tftech">![Image](./img/ootopia.webp#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/ootopia.png#mx-auto)</a>
 
 <p class="text-base">An app that offers people the most exciting and easy way to engage on the planet regeneration and feel part of the solution.
 </p>
 
 |||
 
-<a class="hard_green" href="/tftech">![Image](./img/sikana.png#md#mx-auto)</a>
+<a class="hard_green" href="/tftech">![Image](./img/sikana.png#mx-auto)</a>
 
 <p class="text-base">An educational platform that offers practical knowledge to everyone in the world for free.</p>
 

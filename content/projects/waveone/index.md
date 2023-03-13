@@ -15,9 +15,9 @@ weight: 2
 
 {% row(style="" margin="header" padding="top") %}
 
-<h2 class="greenheader">Wave One:</h2>
+<h2 class="greenheader">Wave One :</h2>
 
-### More than $500 million in exits with less than $50 million investment.
+**More than $500 million in exits with less than $50 million investment.**
 
 <p class="text-base">Our focus during Wave One was very IT-centric – around storage, automation and cloud. During this wave from 2000 till 2015 some of our companies defined parts of the cloud landscape, and are still being used actively today.</p>
 
@@ -339,6 +339,7 @@ Itsyou.online is a web-based service using blockchain distributed ledger to keep
 
 <br>
 
+<br>
 
 -------------------------------------------
 
