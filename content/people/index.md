@@ -23,7 +23,7 @@ We may like tech, but where would we be without our people?
 
 {% row(style="center" margin="moderate" padding="bottom") %}
 
-<a href="/kristof-de-spiegeleer">![Image](./img/kds.jpg#mx-auto)</a>
+<a href="/people/kds">![Image](./img/kds.jpg#mx-auto)</a>
 
 #### Kristof<br> De Spiegeleer
 
@@ -31,7 +31,7 @@ We may like tech, but where would we be without our people?
 
 |||
 
-<a href="/kristof-de-spiegeleer">![Image](./img/adnan.jpg#mx-auto)</a>
+<a href="/people/adnan">![Image](./img/adnan.jpg#mx-auto)</a>
 
 #### Adnan<br> Fatayerji
 
@@ -39,7 +39,7 @@ We may like tech, but where would we be without our people?
 
 |||
 
-<a href="/kristof-de-spiegeleer">![Image](./img/jan.jpg#mx-auto)</a>
+<a href="/people/jan">![Image](./img/jan.jpg#mx-auto)</a>
 
 #### Jan<br> De Landtsheer
 
@@ -47,7 +47,7 @@ We may like tech, but where would we be without our people?
 
 |||
 
-<a href="/kristof-de-spiegeleer">![Image](./img/peter.jpg#mx-auto)</a>
+<a href="/people/peter">![Image](./img/peter.jpg#mx-auto)</a>
 
 #### Peter<br> Van der Henst
 
@@ -55,7 +55,7 @@ We may like tech, but where would we be without our people?
 
 |||
 
-<a href="/kristof-de-spiegeleer">![Image](./img/owen.jpg#mx-auto)</a>
+<a href="/people/owen">![Image](./img/owen.jpg#mx-auto)</a>
 
 #### Owen<br> Kemp
 

@@ -25,7 +25,7 @@ Incubaid is an incubator focused primarily on helping to change our planet for t
 
 {% row(margin="narrow" padding="both") %}
 
-### We believe doing good for the world and doing business can go hand in hand. We are building companies which will help to achieve an ambituous global goal:
+**We believe doing good for the world and doing business can go hand in hand. We are building companies which will help to achieve an ambituous global goal:**
  
 
 ## Make it possible for everyone in the world to have unlimited access to Education,<br> Sustainable Internet, and Complementary Digital Currencies for less than 1% of their monthly salary.

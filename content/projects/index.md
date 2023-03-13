@@ -25,7 +25,7 @@ Some insight into our portfolio and its evolution over the past 19 years.
 
 <a href="/projects/waveone">![Image](./img/wave_one.jpg#mx-auto)</a>
 
-#### Then: Wave One
+### Then: Wave One
 
 <p class="text-base"><span class="font-semibold">More than $500 million in exits with less than $50 million investment.</span><br><br>Our focus during Wave One was very IT-centric – around storage, automation and cloud. During this wave from 2000 till 2015 some of our companies defined parts of the cloud landscape, and are still being used actively today.</p>
 
@@ -42,7 +42,7 @@ Some insight into our portfolio and its evolution over the past 19 years.
 
 <a href="/projects/wavetwo">![Image](./img/wave_two.jpg#mx-auto)</a>
 
-#### Now: Wave Two
+### Now: Wave Two
 
 <p class="text-base">We believe doing good for the world and doing business can go hand in hand. We are building companies which will help to achieve an ambituous global goal:<br><br><span class="font-semibold">Allow everyone to have unlimited access to Education, Sustainable Internet, and Complementary Digital Currencies for less than 1% of their monthly salary.</span><br><br>To reach this goal the world needs next-generation technologies that open education, mobile, and financial systems up for all.</p>
 
