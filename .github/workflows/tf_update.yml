@@ -1,0 +1,22 @@
+name: www3 Incubaid
+on:
+  push:
+    branch: [ development ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on www3.incubaid.com
+      uses: appleboy/ssh-action@master
+      with:
+        host: www3.incubaid.com
+        username: ${{ secrets.TF_USER }}
+        key: ${{ secrets.TF_SECRET }}
+        port: ${{ secrets.TF_PORT }}
+        script: |
+          cd /home/webuser/websites/www3/www_incubaid_zola/
+          git log -1
+          git pull
+          bash build.sh
