@@ -83,7 +83,8 @@ To reach this goal the world needs next-generation technologies that open educat
 
 |||
 
-<a class="hard_green" href="/projects/wavetwo/tag>![Image](./img/tag.png#mx-auto)</a>
+
+<a class="hard_green" href="/projects/wavetwo/tag">![Image](./img/tag.png#mx-auto)</a>
 
 <p class="text-base">An organization that inspires change by providing opportunities for students around the world to take action on social good causes through education.</p>
 

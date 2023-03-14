@@ -53,6 +53,49 @@ Powering the Information Technology workloads of tomorrow.
 
 {% end %}
 
+<br>
+
+
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+![Image](./img/encrypted.svg#md#mx-auto)
+
+### Better Security
+
+<p class="text-base">Stateless nodes reduce hacking surface. Less human involvement means less chance for error.</p>
+
+|||
+
+![Image](./img/uptime-1.svg#md#mx-auto)
+
+### More Uptime
+
+<p class="text-base">Intelligent, self-healing cells manage workloads on the grid.</p>
+
+|||
+
+![Image](./img/uptime-1.svg#md#mx-auto)
+
+### Greater Efficiencies
+
+<p class="text-base">Lowest possible cost.
+Less energy. More effective in storing data.</p>
+
+|||
+
+![Image](./img/speedometer.svg#md#mx-auto)
+
+### Endless Scalability
+
+<p class="text-base">Can scale up to millions of nodes and can be distributed everywhere.</p>
+
+
+{% end %}
+
+<br>
+
+
 {% row(style="center" margin="narrow" padding="bottom") %}
 
 <button>[Previous](/projects/wavetwo/tftech)</button>
