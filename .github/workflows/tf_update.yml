@@ -18,5 +18,6 @@ jobs:
         script: |
           cd /home/webuser/websites/www3/www_incubaid_zola/
           git log -1
+          git restore .
           git pull
           bash build.sh
