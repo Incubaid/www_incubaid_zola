@@ -120,7 +120,7 @@ To reach this goal the world needs next-generation technologies that open educat
 
 
 
-<!-- section 1 -->
+<!-- section 3 -->
 
 
 
@@ -130,8 +130,7 @@ To reach this goal the world needs next-generation technologies that open educat
 
 <br>
 
-Each of our companies believes in doing good for the world
-and operates with the values laid about by <a href="https://freeflownation.org/" class="hard_green" target="blank">freeflownation.org</a>
+Each of our companies believes in doing good for the world and operates with the values laid about by <a href="https://freeflownation.org/" class="hard_green" target="blank">freeflownation.org</a>
 
 
 <br>
