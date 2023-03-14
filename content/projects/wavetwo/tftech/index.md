@@ -15,7 +15,7 @@ weight: 2
 
 |||
 
-<h2 class="greenheader">Self-Driving IT</h2>
+### Self-Driving IT
 
 Powering the Information Technology workloads of tomorrow.
 
@@ -99,7 +99,7 @@ Less energy. More effective in storing data.</p>
 {% row(style="center" margin="narrow" padding="bottom") %}
 
 <button>[Previous](/projects/wavetwo/tftech)</button>
-<button>[Next](/projects/wavetwo/tftech)</button>
+<button>[Next](/projects/wavetwo/tft)</button>
 
 {% end %}
 

@@ -15,7 +15,7 @@ weight: 2
 
 |||
 
-<h2 class="greenheader">Self-Driving IT</h2>
+### A True Peer-To-Peer Internet
 
 Empowering equality, autonomy and sustainability with game-changing technology built with a collaborative ecosystem.
 Live and distributed in 21 countries and expanding.
@@ -64,7 +64,7 @@ Live and distributed in 21 countries and expanding.
 {% row(style="center" margin="narrow" padding="bottom") %}
 
 <button>[Previous](/projects/wavetwo/tftech)</button>
-<button>[Next](/projects/wavetwo/tft)</button>
+<button>[Next](/projects/wavetwo/fairswap)</button>
 
 {% end %}
 
