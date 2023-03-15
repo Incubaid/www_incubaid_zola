@@ -93,7 +93,7 @@ weight: 2
 
 ## Want to learn more about FreeFlow?
 
-<button><a href="https://freeflownation.org/" target="_blank">Head this Way!</button>
+<button><a href="https://freeflownation.org/" target="_blank">Head this Way!</a></button>
 
 <br>
 
