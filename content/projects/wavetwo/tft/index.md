@@ -63,19 +63,17 @@ Live and distributed in 21 countries and expanding.
 
 <br>
 
-{% row(style="center" margin="narrow" padding="none") %}
-
-<button>[Previous](/projects/wavetwo/tftech)</button>
-<button>[Next](/projects/wavetwo/fairswap)</button>
-
-{% end %}
-
-
 
 {% roadmap1() %}
 
 ## ThreeFold Foundation Roadmap
 
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+<button>[Previous](/projects/wavetwo/tftech)</button>
+<button>[Next](/projects/wavetwo/fairswap)</button>
 
 {% end %}
 
