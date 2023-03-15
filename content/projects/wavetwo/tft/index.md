@@ -20,7 +20,7 @@ weight: 2
 Empowering equality, autonomy and sustainability with game-changing technology built with a collaborative ecosystem.
 Live and distributed in 21 countries and expanding.
 
-<button><a href="https://threefold.io/" target="_blank">ThreeFold.io</a></button>
+<a class="hard_green" href="https://threefold.io/" target="_blank">ThreeFold.io</a>
 
 
 {% end %}

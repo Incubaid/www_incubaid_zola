@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://incubaid.com/sitemap.xml
+Sitemap: https://www3.incubaid.com/sitemap.xml

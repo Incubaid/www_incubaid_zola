@@ -19,7 +19,7 @@ weight: 2
 
 Powering the Information Technology workloads of tomorrow.
 
-<button><a href="https://threefold.tech/" target="_blank">ThreeFold Tech</a></button>
+<a class="hard_green" href="https://threefold.tech/" target="_blank">ThreeFold Tech</a>
 
 
 {% end %}

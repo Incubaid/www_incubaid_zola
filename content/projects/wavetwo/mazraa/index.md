@@ -19,7 +19,7 @@ weight: 2
 
 Support the grid by buying capacity units, hosting P2P nodes or deploying workloads.
 
-<button><a href="https://www.mazraa.io/" target="_blank">Mazraa</a></button>
+<a class="hard_green" href="https://www.mazraa.io/" target="_blank">mazraa.io</a>
 
 
 {% end %}

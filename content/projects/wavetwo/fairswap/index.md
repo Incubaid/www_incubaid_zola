@@ -49,7 +49,7 @@ FairSwap is an open-source, decentralized project complete with wallet, exchange
 
 <br>
 
-#### The ThreeFold Foundation Solution
+#### Solution & Mission
 
 <p class="text-base">Open-source, peer-to-peer financial tools that are quantum-safe and built on decentralized capacity</p>
 

@@ -36,6 +36,10 @@ img[src*="#small"] {
   width: 68px;
 }
 
+img[src*="#extrasmall"] {
+  width: 100px;
+}
+
 img[src*="#sm"] {
   width: 200px;
 }
