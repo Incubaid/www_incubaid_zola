@@ -53,8 +53,6 @@ Start farming ThreeFold Tokens in an easy "plug & farm" way with one of our cert
 
 <hr class="greenline">
 
-
-
 <br>
 
 <br>
@@ -88,6 +86,16 @@ Start farming ThreeFold Tokens in an easy "plug & farm" way with one of our cert
 <p class="text-base">Use the Node Server configurator in our ServerShop to configure exactly the server you want. You can choose from our range of ThreeFold Certified Hardware to create any server from a home office quiet running server to a fully loaded compute engine or hundreds of terabytes of storage.</p>
 
 
+
+{% end %}
+
+
+<br>
+
+
+{% roadmap2() %}
+
+## BetterToken Roadmap
 
 {% end %}
 
