@@ -9,6 +9,10 @@ weight: 1
 
 <!-- section 1 (header) -->
 
+<br>
+
+<br>
+
 {% row(margin="withContainer" bgPath="img/home_bg.jpg" bgStyle="full" padding="headerboth" margin="tight") %}
 
 # Changing The World <br>Through Decentralization
