@@ -75,4 +75,18 @@ We may like tech, but where would we be without our people?
 
 {% end %}
 
+{% row(style="center" margin="tight" padding="both") %}
+
+|||
+
+## Reach out!
+
+|||
+
+<button class="mr-0"><a href="mailto:info@incubaid.com" target="_blank">Contact us</a></button>
+
+|||
+
+{% end %}
+
 </div>
