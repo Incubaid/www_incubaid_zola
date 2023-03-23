@@ -71,7 +71,21 @@ We may like tech, but where would we be without our people?
 
 ## We are values-driven
 
-<button>[Read the FreeFlow Values](/buynow)</button>
+<button onclick="window.location.href='/people/freeflowvalue'">Read the FreeFlow Values</button>
+
+{% end %}
+
+{% row(style="center" margin="tight" padding="both") %}
+
+|||
+
+## Reach out!
+
+|||
+
+<button class="mr-0"><a href="mailto:info@incubaid.com" target="_blank">Contact us</a></button>
+
+|||
 
 {% end %}
 

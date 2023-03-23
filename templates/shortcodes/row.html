@@ -93,7 +93,7 @@ Parameters:
     {% elif "narrow" in margin %}
         {% set margin_class = " mx-6 sm:mx-20 md:mx-28 lg:mx-40" %}
     {% elif "tight" in margin %}
-        {% set margin_class = " mx-6 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
+        {% set margin_class = " mx-6 sm:mx-32 md:mx-40 lg:mx-80" %}
     {% elif "header" in margin %}
         {% set margin_class = " mx-6 sm:mx-20 md:mx-28 lg:mx-40 mt-10 lg:mt-0" %}
     {% elif "withContainer" in margin %}
@@ -123,7 +123,7 @@ Parameters:
 {% if style %}
 
     {% if "center" in style %}
-        {% set row_class = row_class ~ " text-center items-center mx-auto " %}
+        {% set row_class = row_class ~ " text-center items-center " %}
         {% set col_class = col_class ~ " flex-1 " %}
     {% endif %}
 
