@@ -353,7 +353,7 @@ Itsyou.online is a web-based service using blockchain distributed ledger to keep
 
 Companies and projects Incubaid is currently invested in through funding, time, resources, and emotion.
 
-<button>[Wave Two](/projects/wavetwo)</button>
+<button onclick="window.location.href='/projects/wavetwo'">Wave Two</button>
 
 
 

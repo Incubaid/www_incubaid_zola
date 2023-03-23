@@ -19,7 +19,7 @@ weight: 1
 
 Incubaid is an incubator focused primarily on helping to change our planet for the better through technology that supports decentralization.
 
-<button>[19 years. 7 exits. A Proven Track Record.](/projects)</button>
+<button onclick="window.location.href='/projects'">19 years. 7 exits. A Proven Track Record.</button>
 
 {% end %}
 
@@ -34,7 +34,7 @@ Incubaid is an incubator focused primarily on helping to change our planet for t
 
 ## Make it possible for everyone in the world to have unlimited access to Education,<br> Sustainable Internet, and Complementary Digital Currencies for less than 1% of their monthly salary.
 
-<button>[Our Projects](/projects)</button>
+<button onclick="window.location.href='/projects'">Our Projects</button>
 
 
 {% end %}
@@ -89,7 +89,7 @@ The technology we invest in is focused in these key areas:
 
 Our diverse & passionate team has a multitude of backgrounds, skillsets, and experiences.
 
-<button>[Get to Know our people](/people)</button>
+<button onclick="window.location.href='/people'">Get to Know our people</button>
 
 {% end %}
 

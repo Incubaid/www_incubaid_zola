@@ -71,7 +71,7 @@ We may like tech, but where would we be without our people?
 
 ## We are values-driven
 
-<button>[Read the FreeFlow Values](/people/freeflowvalue)</button>
+<button onclick="window.location.href='/people/freeflowvalue'">Read the FreeFlow Values</button>
 
 {% end %}
 
