@@ -1,7 +1,8 @@
 name: Incubaid Staging
 on:
   push:
-    branch: [ development ]
+    branches: 
+      - development
 
 
 jobs:
