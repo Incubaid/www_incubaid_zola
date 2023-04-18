@@ -15,7 +15,7 @@ weight: 4
 
 {% row(style="center" margin="header" padding="top") %}
 
-# Truly decentralized
+# Truly Decentralized
 
 
 

@@ -172,6 +172,7 @@ img[src*="#fig"] {
     my-4
     border-2
     shadow
+    capitalize
   }
 }
 
