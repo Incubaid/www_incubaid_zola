@@ -1,6 +1,6 @@
 # Welcome to Incubaid Website Repository
 
-- Name of website: Incubaid
+- Website Name: Incubaid
 - Brief Description: This is the official website of ncubaid BVBA
 Last Updated: March 2023
 
