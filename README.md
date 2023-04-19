@@ -5,7 +5,7 @@
 Last Updated: March 2023
 
 - Website URL:
-  - Staging : https://www2.incubaid.com/
+  - Staging : https://www2.incubaid.com
   - Production: https://www.incubaid.com/
 
 - For any suggestions or improvement ideas please 
