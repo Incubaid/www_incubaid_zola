@@ -9,7 +9,6 @@ Last Updated: March 2023
 <br>
   - Production: https://www.incubaid.com/
 
-
 - For any suggestions or improvement ideas please 
 Create an issue on: https://github.com/Incubaid/www_incubaid_zola/issues
 
