@@ -15,7 +15,7 @@ weight: 3
 
 {% row(style="center" margin="header" padding="top") %}
 
-# Get to know us
+# Get To Know Us
 
 We may like tech, but where would we be without our people?
 
@@ -77,15 +77,10 @@ We may like tech, but where would we be without our people?
 
 {% row(style="center" margin="tight" padding="both") %}
 
-|||
-
 ## Reach out!
-
-|||
 
 <button class="mr-0"><a href="mailto:info@incubaid.com" target="_blank">Contact us</a></button>
 
-|||
 
 {% end %}
 
