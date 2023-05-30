@@ -35,7 +35,7 @@ We may like tech, but where would we be without our people?
 
 #### Adnan<br> Fatayerji
 
-<p class="text-base">Head of UAE Venture</p>
+<p class="text-base">Partner & CEO of ThreeFold Foundation</p>
 
 |||
 
