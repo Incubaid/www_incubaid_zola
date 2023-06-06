@@ -61,6 +61,56 @@ We may like tech, but where would we be without our people?
 
 <p class="text-base">Partner</p>
 
+|||
+
+<a href="/people/rob">![Image](./img/rob.jpg#mx-auto)</a>
+
+#### Rob<br> Van Mieghem
+
+<p class="text-base">Master Architect Blockchain</p>
+
+{% end %}
+
+{% row(style="center" margin="moderate" padding="bottom") %}
+
+<a href="/people/azmy">![Image](./img/muhamed_amzy.jpg#mx-auto)</a>
+
+#### Mohamed<br> Azmy
+
+<p class="text-base">Software Engineer ZOS</p>
+
+|||
+
+<a href="/people/dylan">![Image](./img/dylan_verstraete.jpg#mx-auto)</a>
+
+#### Dylan<br> Verstraete
+
+<p class="text-base">Software Engineer</p>
+
+|||
+
+<a href="/people/lee">![Image](./img/lee_smet.jpg#mx-auto)</a>
+
+#### Lee<br> Smet
+
+<p class="text-base">Research & Architecture In general</p>
+
+|||
+
+<a href="/people/maxime">![Image](./img/maxime_daniel.jpg#mx-auto)</a>
+
+#### Maxime<br> Daniel
+
+<p class="text-base">Software Engineer</p>
+
+|||
+
+<a href="/people/sabrina">![Image](./img/sabrina_sadik.jpg#mx-auto)</a>
+
+#### Sabrina<br> Sadik
+
+<p class="text-base">Support & Operations Lead</p>
+
 {% end %}
 
 </div>

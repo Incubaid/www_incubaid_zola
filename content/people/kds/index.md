@@ -54,7 +54,7 @@ weight: 2
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-<button>[Previous](/people/owen)</button>
+<button>[Previous](/people/sabrina)</button>
 <button>[Next](/people/adnan)</button>
 
 {% end %}
