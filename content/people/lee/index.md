@@ -9,31 +9,14 @@ weight: 2
 
 <div class="container mx-auto">
 
-<br>
 
-<!-- section 1 -->
+{% row(style="" margin="narrow") %}
 
-{% row(style="" margin="header" padding="top") %}
+![Image](./img/lee_smet.jpg#small#mx-auto)
+
+|||
 
 ##  Lee Smet
-
-
-{% end %}
-
-<br>
-
-
-<!-- section 2 -->
-
-{% row(style="" margin="narrow" padding="none") %}
-
-![Image](./img/lee_smet.jpg#small)
-
-{% end %}
-
-
-{% row(style="" margin="narrow" padding="none") %}
-
 <p class="text-base">In order to have a nice planet to live on for the next decades, we need to preserve what we have now. This means we need to stop wasting scarce resources, and move towards a more sustainable ecosystem. If existing technology can not, or refuses to become greener, then we will need to create this technology from scratch.</p>
 
 {% end %}

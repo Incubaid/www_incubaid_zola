@@ -9,31 +9,14 @@ weight: 2
 
 <div class="container mx-auto">
 
-<br>
 
-<!-- section 1 -->
+{% row(style="" margin="narrow") %}
 
-{% row(style="" margin="header" padding="top") %}
+![Image](./img/maxime_daniel.jpg#small#mx-auto)
+
+|||
 
 ##  Maxime Daniel
-
-
-{% end %}
-
-<br>
-
-
-<!-- section 2 -->
-
-{% row(style="" margin="narrow" padding="none") %}
-
-![Image](./img/maxime_daniel.jpg#small)
-
-{% end %}
-
-
-{% row(style="" margin="narrow" padding="none") %}
-
 <p class="text-base">C, python and nodejs developer, Gentoo user, Linux and Music addict</p>
 
 {% end %}

@@ -9,30 +9,12 @@ weight: 2
 
 <div class="container mx-auto">
 
-<br>
+{% row(style="" margin="narrow") %}
 
-<!-- section 1 -->
+![Image](./img/rob.jpg#small#mx-auto)
 
-{% row(style="" margin="header" padding="top") %}
-
+|||
 ##   Rob Van Mieghem
-
-
-{% end %}
-
-<br>
-
-
-<!-- section 2 -->
-
-{% row(style="" margin="narrow" padding="none") %}
-
-![Image](./img/rob.jpg#small)
-
-{% end %}
-
-
-{% row(style="" margin="narrow" padding="none") %}
 
 <p class="text-base">Equality of opportunity is a fundamental right in my opinion. So is privacy that goes beyond being a personal right as it is a necessity for democracy to function. A better world is something that starts with yourself. Technology today does not sufficiently support my personal believes of how a better world might look like, especially not how it is made available to the majority of the world population. I'm a nerd and proud of it so let's start doing what is right.</p>
 
