@@ -23,4 +23,4 @@ weight: 4
 
 </div>
 
-<iframe src="https://snazzymaps.com/embed/169103" width="100%" height="600px" style="border:none;"></iframe>
+<div id="map"></div>

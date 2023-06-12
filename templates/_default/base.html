@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html lang="en" charset="utf-8">
-
     {% include "partials/head.html" %}
-    
     <body>
         {% include "partials/header.html" %}
         <div id="content" class="mx-auto overflow-hidden">
-            {% block content %}{% endblock %}    
+            {% block content %}{% endblock %}
         </div>
         {% include "partials/footer.html" %}
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly" defer></script>
+        <script>
+            function initMap() {
+                const map = new google.maps.Map(document.getElementById("map"), {
+                  zoom: 4,
+                  center: { lat: -33, lng: 151 },
+                  disableDefaultUI: true,
+                });
+              }
+              
+              window.initMap = initMap;
+        </script>
     </body>
 </html>
