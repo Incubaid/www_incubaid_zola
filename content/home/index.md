@@ -15,13 +15,11 @@ weight: 1
 
 {% row(margin="withContainer" bgPath="img/home_bg.jpg" bgStyle="full" padding="headerboth" margin="tight") %}
 
-#  Innovating for a Sustainable Future
+# Driving Decentralization
 
-__Incubaid__ has long been a leader in technological innovation, delivering solutions that address global challenges in areas such as blockchain, decentralized infrastructure, and quantum-safe technologies. As we evolve, our mission remains steadfast—leveraging technology to create meaningful impact.
+__Incubaid__ has long been a leader in technological innovation, with a focus on storage, automation, cloud, and technologies supporting decentralization. Over 19 years, Incubaid companies completed seven successful exits. We have always believed that doing good for the world and doing business can go hand in hand.
 
-<br>
-
-Today, this legacy continues under <u>[__OurWorld__](https://ourworld.tf)</u>, a platform focused on empowering communities and fostering sustainable development through decentralized, peer-to-peer technology. While Incubaid’s core values endure, OurWorld represents the next step in our commitment to driving positive change.
+Today, this legacy continues under __OurWorld__, a venture creator focused on empowering people and communities and fostering innovation while prioritizing safety and sovereignty. While Incubaid’s core values endure, OurWorld represents the next step in our commitment to driving positive change.
 
 
 <button class="text-sm lg:text-lg font-normal mr-0" onclick="window.location.href='https://ourworld.tf'">Discover more at OurWorld</button>
