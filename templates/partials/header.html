@@ -105,43 +105,6 @@
                         <img class="logo" src="{{logo_path}}" alt="Logo" />
                     </a>
                 </div>
-                <div class="-mr-2 -my-2 lg:hidden">
-                    <button id="hamburger-btn" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2">
-                        <!-- Heroicon name: menu -->
-                        <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                    </button>
-                <button id="close-hamburger-btn" type="button" class="hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2">
-                    <!-- Heroicon name: x -->
-                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                    </button>
-                </div>
-                <div class="hidden lg:flex-1 lg:flex lg:items-center lg:justify-end lg:space-x-12">
-                    <nav class="flex space-x-6">    
-                    {% for page in section.pages %}
-                    {% if page.extra.menu %} {% continue %} {% endif %}
-                        <a href="{{page.permalink}}" class="text-md font-normal leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
-                            {{page.title}}
-                        </a>
-                        <div class="relative">
-                        </div>
-                    {% endfor %}
-                    {% for subsection in section.subsections %}
-                        {% if subsection == "footer/_index.md" %} {% continue %} {% endif %}                        
-                        {% set button_id = subsection ~ "-menu-btn" | slugify %}
-                        <div class="relative">
-                        <button type="button" id="{{button_id}}" class="nav_btn text-gray-900 group inline-flex items-center space-x-2 text-lg leading-6 hover:text-green-300 focus:outline-none transition ease-in-out duration-150">
-                            <span>{{ subsection }}</span>
-                            <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
-                        </button>
-                        </div>
-                    {% endfor %}
-                   <a href="https://freeflownation.org/" class="text-md font-normal leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0" target="_blank">FreeFlow Nation</a>
-                    </nav>
-                </div>
             </div>
         </div>
     {% for subsection in section.subsections %}
