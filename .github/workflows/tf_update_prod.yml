@@ -20,6 +20,7 @@ jobs:
         script: |
           cd websites/www_incubaid_zola/
           git log -1
-          git restore .
-          git pull
+          git fetch
+          git reset --hard origin/main
+          sed -i "s/https:\/\/www2.incubaid.com/https:\/\/www.incubaid.com/g" config.toml
           bash build.sh
