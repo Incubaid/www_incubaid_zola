@@ -91,7 +91,7 @@ To reach this goal the world needs next-generation technologies that open educat
 |||
 
 
-<a class="hard_green" href="/projects/wavetwo/ourverses">![Image](./img/ourverses.png#mx-auto)</a>
+<a class="hard_green" href="/projects/wavetwo/ourverse">![Image](./img/ourverses.png#mx-auto)</a>
 
 <p class="text-base">A better world where we all have access to endless information and oppurtunities.</p>
 

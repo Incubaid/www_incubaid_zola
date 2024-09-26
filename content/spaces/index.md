@@ -7,7 +7,7 @@ draft: false
 weight: 3
 ---
 
-<div class="container mx-auto">
+
 
 <br>
 
@@ -17,10 +17,22 @@ weight: 3
 
 # Truly Decentralized
 
-
-
 {% end %}
+
+
+<div class="map">
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13j9YfHtWb6GbhyfbMfyD2hgo74FarPM&ehbc=2E312F" width="100%" height="480"></iframe>
 
 </div>
 
-<iframe src="https://snazzymaps.com/embed/169103" width="100%" height="600px" style="border:none;"></iframe>
+<style>
+  .map{
+      display: flex;
+      width: 100%;
+      /* height: 100vh; */
+      justify-content: center;
+      align-items: center;
+  }
+  
+  </style>
