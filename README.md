@@ -9,7 +9,7 @@ Last Updated: March 2023
   - Production: https://www.incubaid.com/
 
 - For any suggestions or improvement ideas please 
-Create an issue on: https://github.com/Incubaid/www_incubaid_zola/issues
+Create an issue on: [issues](https://git.ourworld.tf/tfgrid/circle_web_presence/issues)
 
 ## Administrators
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
